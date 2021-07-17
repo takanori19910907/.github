@@ -1,5 +1,5 @@
 ---
-name: ISSUE(不具合改修)
+name: 機能改修起案
 about: 不具合改修に使用
 title: ''
 labels: ''
